@@ -1,4 +1,4 @@
-Event Database
+##Event Database
 
 #### Concepts
 **Base streams**
