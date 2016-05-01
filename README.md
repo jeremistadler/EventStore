@@ -1,9 +1,11 @@
 Event Database
 
-### Consepts
-* Pure streams *
-    lesson.create.v1
+#### Concepts
+**Base streams**
+```base.lesson.create.v1```
 
 
-* * Projected streams * * 
-    lesson.create
+**View streams / projections** 
+```view.lesson.v1```
+
+```view.top-10-lessons-by-readers```
