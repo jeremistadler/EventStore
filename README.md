@@ -2,6 +2,7 @@ Event Store Concept
 ------
 
 **Base streams**
+
 `base.lesson.create.v1`
 
 
